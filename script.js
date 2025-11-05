@@ -1,5 +1,5 @@
 const CONFIG = {
-     _USER_ID: '1322563906639761438',
+    DISCORD_USER_ID: '1322563906639761438',
     SPOTIFY_CLIENT_ID: '6d6e8d91a7c943c8a9cc43f96f8d82f9',
     UPDATE_INTERVAL: 30000,
     SPOTIFY_UPDATE_INTERVAL: 5000
@@ -513,4 +513,5 @@ document.addEventListener('DOMContentLoaded', function() {
     initializeSocialLinks();
 
 });
+
 
